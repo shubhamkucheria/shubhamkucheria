@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamkucheria
 - 👀 I’m interested in javascript and its related technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on JS
+- 📫 How to reach me https://www.linkedin.com/in/shubham-kucheria/
 
 You can use svg to work around, example code (./path/example.svg):
 ![](./path/example.svg)
